@@ -30,7 +30,7 @@ Get image id from podman image list
 podman image list
 
 REPOSITORY                                   TAG         IMAGE ID      CREATED         SIZE
-localhost/zeromy-test                        latest      82ef3bcf8bca  11 minutes ago  298 M
+localhost/zeromq-test                        latest      82ef3bcf8bca  11 minutes ago  298 M
 ```
 
 ```shell
